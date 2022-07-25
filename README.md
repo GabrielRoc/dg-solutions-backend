@@ -5,12 +5,12 @@
   <img href="https://www.postgresql.org/" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
   <img href="https://www.sqlite.org/index.html" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank">
   <img href="https://jestjs.io/pt-BR/" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" target="_blank">
-  <img href="https://app.circleci.com/pipelines/github/GabrielRoc/fumico-challenge" src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" target="_blank">
-  <img href="https://fumico-challenge.herokuapp.com/" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" target="_blank">
+  <img href="https://app.circleci.com/pipelines/github/GabrielRoc/dg-solutions-backend" src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" target="_blank">
+  <img href="https://dg-solutions.herokuapp.com/" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" target="_blank">
 </p>
 
 <p align="center">
-  <img href="https://dl.circleci.com/status-badge/redirect/gh/GabrielRoc/fumico-challenge/tree/main" src="https://dl.circleci.com/status-badge/img/gh/GabrielRoc/fumico-challenge/tree/main.svg?style=svg" target="_blank">
+  <img href="https://app.circleci.com/pipelines/github/GabrielRoc/dg-solutions-backend" src="https://dl.circleci.com/status-badge/img/gh/GabrielRoc/dg-solutions-backend/tree/main.svg?style=svg" target="_blank">
 </p>
 
 ## Descrição
@@ -47,8 +47,7 @@ $ yarn test:e2e
 ## Informações
 
 <ul>
-  <li><a href="https://app.circleci.com/pipelines/github/GabrielRoc/fumico-challenge">Circle CI</a></li>
-<li><a href="https://app.circleci.com/pipelines/github/GabrielRoc/fumico-challenge" target="_blank">Heroku Deploy</a></li>
-<li><a href="https://documenter.getpostman.com/view/15250208/UzR1Lhyj#4383e4d8-d47f-4b88-a7b2-1a71671c75c7" target="_blank">Postman Docs</a></li>
-<li><a href="https://www.getpostman.com/collections/d662b7afe7ca453e3073" target="_blank">Postman Collection</a></li>
+  <li><a href="https://app.circleci.com/pipelines/github/GabrielRoc/dg-solutions-backend">Circle CI</a></li>
+  <li><a href="https://dg-solutions.herokuapp.com/" target="_blank">Heroku Deploy</a></li>
+  <li><a href="https://github.com/GabrielRoc/dg-solutions-frontend" target="_blank">Front-End</a></li>
 </ul>
