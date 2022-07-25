@@ -14,11 +14,6 @@ jobs:
           pkg-manager: yarn
       - run:
           command: yarn test:e2e
-  third-job:
-    docker:
-      - image: ubuntu
-    steps:
-      - run: echo "this is the third job"
 
 workflows:
   build-and-deploy:
@@ -31,4 +26,3 @@ workflows:
           filters:
             branches:
               only: main
-        
