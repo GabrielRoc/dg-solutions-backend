@@ -29,7 +29,7 @@
     "class-sanitizer": "^1.0.1",
     "class-transformer": "^0.5.1",
     "joi": "^17.6.0",
-    "nestjs-joi": "^1.7.0",
+    "nestjs-joi": "^1.8.0",
     "pg": "^8.7.3",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
